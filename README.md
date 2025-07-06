@@ -6,7 +6,9 @@ A classic Tetris game built with React and Vite, featuring modern React practice
 
 🎮 **[Play the game here!](https://patnaikd.github.io/tetris/)**
 
-*Add a screenshot of your game here*
+![Tetris Game Screenshot](assets/tetris-screenshot.png)
+
+*The game features a clean, modern interface with the classic Tetris gameplay board, score display, and intuitive controls.*
 
 ## Features
 
